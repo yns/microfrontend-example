@@ -22,7 +22,3 @@ Install and start the root application
 ```sh
 $ npm install && npm run start
 ```
-
-## License
-
-[MIT](LICENSE) © Yunus Emre Cavusoglu
